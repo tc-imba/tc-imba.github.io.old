@@ -26,7 +26,7 @@ module.exports = {
     posts: 'posts',
     contact: 'contact',
     resume: 'resume',
-    tag: 'tags',
+    tags: 'tags',
     publications: 'publications',
   },
   social: {
@@ -61,6 +61,10 @@ module.exports = {
     icon: 'layer-group',
     title: 'Full Stack Development',
   }],
+  tagColors: [
+    'magenta', 'red', 'volcano', 'orange', 'gold',
+    'lime', 'green', 'cyan', 'blue', 'geekblue', 'purple',
+  ],
   tags: {
     javascript: {
       name: 'javascript',
