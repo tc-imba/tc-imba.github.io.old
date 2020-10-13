@@ -27,7 +27,7 @@ module.exports = {
     contact: 'contact',
     resume: 'resume',
     tags: 'tags',
-    publications: 'publications',
+    research: 'research',
   },
   social: {
     github: 'https://github.com/tc-imba',
