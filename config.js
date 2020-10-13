@@ -60,6 +60,9 @@ module.exports = {
   }, {
     icon: 'layer-group',
     title: 'Full Stack Development',
+  }, {
+    icon: ['fab', 'linux'],
+    title: 'Open Source Community',
   }],
   tagColors: [
     'magenta', 'red', 'volcano', 'orange', 'gold',
