@@ -36,6 +36,13 @@ module.exports = {
     // instagram: 'https://www.instagram.com/reevan100/',
     // rss: '/rss.xml',
   },
+  wakatime: {
+    username: 'tcimba',
+    activity: '7add4047-08f9-4da8-b649-aa114503678f',
+    language: '460a84ab-722a-4b80-b896-cabaa13ad7eb',
+    editor: 'd851639a-28d8-4884-949f-d338a858f7e9',
+    os: 'caf7d0d1-8fd2-4595-a991-363c8583fea9',
+  },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   education: [{
