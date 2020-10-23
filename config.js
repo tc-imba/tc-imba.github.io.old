@@ -71,6 +71,19 @@ module.exports = {
     icon: ['fab', 'linux'],
     title: 'Open Source Community',
   }],
+  experience: [{
+    date: 'Aug 2019',
+    title: 'fxh home visit third time',
+    location: 'Shanghai',
+  }, {
+    date: 'Aug 2018',
+    title: 'fxh home visit second time',
+    location: 'Shanghai',
+  }, {
+    date: 'Aug 2017',
+    title: 'fxh home visit',
+    location: 'Shanghai',
+  }],
   tagColors: [
     'magenta', 'red', 'volcano', 'orange', 'gold',
     'lime', 'green', 'cyan', 'blue', 'geekblue', 'purple',
